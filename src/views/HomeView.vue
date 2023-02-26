@@ -137,6 +137,7 @@ export default {
 textarea,
 .form-control {
   resize: none;
+  padding: 20px;
   font-size: 20px;
   border-radius: 20px;
   outline: none;
